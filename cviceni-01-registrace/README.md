@@ -1,4 +1,4 @@
-# Cvičení 2 - Registrace
+# Cvičení 1 - Registrace
 
 1. Založ si novou React aplikaci dle klasického postupu pomocí `create-czechitas-app`.
 

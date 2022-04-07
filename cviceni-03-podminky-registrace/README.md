@@ -1,4 +1,4 @@
-# Cvičení 4 - Podmínky registrace
+# Cvičení 3 - Podmínky registrace
 
 Pokračuj v předchozím cvičení.
 

@@ -1,4 +1,4 @@
-# Cvičení 3 - Výběr země
+# Cvičení 2 - Výběr země
 
 Pokračuj v předchozím cvičení.
 
